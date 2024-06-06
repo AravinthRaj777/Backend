@@ -1,0 +1,133 @@
+[{
+    "name": "Apple",
+    "price": 100,
+    "description": "Apple is a fruit produced by the apple tree. It is the most widely cultivated tree in the world, and the most important commercial crop in the world. Apples are used to make a variety of products, including applesauce, apple pies, apple cider, apple butter, apple juice, apple fritters, apple ice cream, and apple cake.",
+    "image": [
+        {
+            "image": "https://images.unsplash.com/photo-1500203299-d0ee9d1d2ae1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+    ],
+    "seller": "Apple Inc.",
+    "stock": 100,
+    "numOfReviws": 10,
+    "numOfReviews": 10,
+    "rating": 4.5,
+    "pricePerUnit": 10,
+    "unit": "kg",
+    "weight": 100,
+    "category": "Fruit",
+    "brand": "Apple",
+    "color": "Red",
+    "size": "Medium",
+    "origin": "USA",
+    "country": "USA",
+    "region": "North America",
+    "city": "New York",
+    "state": "New York",
+    "street": "123 Main Street",
+    "zip": "10001",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+},
+
+{
+    "name": "Banana",    
+    "price": 100,
+    "description": "Bananas are a type of tropical fruit. They are the most widely cultivated fruit in the world, and the second most important commercial crop in the world. Bananas are used to make a variety of products, including banana bread, banana pudding, banana chips, banana fritters, banana ice cream, and banana cake.",
+    "image": [
+        {
+            "image": "https://images.unsplash.com/photo-1500203299-d0ee9d1d2ae1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+    ],
+    "seller": "Apple Inc.",
+    "stock": 100,
+    "numOfReviws": 10,
+    "numOfReviews": 10,
+    "rating": 4.5,
+    "pricePerUnit": 10,
+    "unit": "kg",
+    "weight": 100,
+    "category": "Fruit",
+    "brand": "Apple",
+    "color": "Red",
+    "size": "Medium",
+    "origin": "USA",
+    "country": "USA",
+    "region": "North America",
+    "city": "New York",
+    "state": "New York",
+    "street": "123 Main Street",
+    "zip": "10001",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+},
+{
+    "name": "Orange",
+    "price": 100,    
+    "description": "Oranges are a type of citrus fruit. They are the most widely cultivated citrus fruit in the world, and the second most important commercial crop in the world. Oranges are used to make a variety of products, including orange juice, orange juice concentrate, orange juice syrup, orange marmalade, orange peel, and orange pie.",
+    "image": [
+        {
+            "image": "https://images.unsplash.com/photo-1500203299-d0ee9d1d2ae1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+    ],
+    "seller": "Apple Inc.",
+    "stock": 100,
+    "numOfReviws": 10,
+    "numOfReviews": 10,
+    "rating": 4.5,
+    "pricePerUnit": 10,
+    "unit": "kg",
+    "weight": 100,
+    "category": "Fruit",
+    "brand": "Apple",
+    "color": "Red",
+    "size": "Medium",
+    "origin": "USA",
+    "country": "USA",
+    "region": "North America",
+    "city": "New York",
+    "state": "New York",
+    "street": "123 Main Street",
+    "zip": "10001",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+},
+{
+    "name": "Apple",
+    "price": 100,    
+    "description": "Oranges are a type of citrus fruit. They are the most widely cultivated citrus fruit in the world, and the second most important commercial crop in the world. Oranges are used to make a variety of products, including orange juice, orange juice concentrate, orange juice syrup, orange marmalade, orange peel, and orange pie.",
+    "image": [
+        {
+            "image": "https://images.unsplash.com/photo-1500203299-d0ee9d1d2ae1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+    ],
+    "seller": "Apple Inc.",
+    "stock": 100,
+    "numOfReviws": 10,
+    "numOfReviews": 10,
+    "rating": 4.5,
+    "pricePerUnit": 10,
+    "unit": "kg",
+    "weight": 100,
+    "category": "Fruit",
+    "brand": "Apple",
+    "color": "Red",
+    "size": "Medium",
+    "origin": "USA",
+    "country": "USA",
+    "region": "North America",
+    "city": "New York",
+    "state": "New York",
+    "street": "123 Main Street",
+    "zip": "10001",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "createdAt": "2020-01-01T00:00:00.000Z",
+    "updatedAt": "2020-01-01T00:00:00.000Z"
+}]
